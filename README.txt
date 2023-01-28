@@ -2,7 +2,7 @@
 LICENSE
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-Creative Commons CC by Ministry of Education (T.E)
+Creative Commons CC by Travis Edward
 
 Permission is hereby granted for the use of this code in any from of develpopment for learning purposes only.
 
