@@ -19,7 +19,7 @@
 <hr>
 
   <div class="row">
-    <div class="col-md-6 p-5" style="background:#0a3d62;">
+    <div class="col-md-6 p-5" style="background:#E083C2;">
       <h2 class="text-center">PRIMARY IMAGES</h2>
           <br>
           <br>
@@ -61,7 +61,7 @@
 
       <div class="form-group">
       <div class="text-center">
-        <input type="submit" name="submit" value="Upload" class="btn btn-info btn-lg">
+        <input type="submit" name="submit" value="Upload" class="btn btn-dark btn-lg">
       </div>
       </div>
 
@@ -70,7 +70,7 @@
 
 
 
-    <div class="col-md-6 p-5 bg-dark">
+    <div class="col-md-6 p-5" style="background:#002060; color:#fff;">
         <h2 class="text-center">SECONDARY IMAGES</h2>
             <br>
             <br>
@@ -112,7 +112,7 @@
 
         <div class="form-group">
           <div class="text-center">
-          <input type="submit" name="submit" value="Upload" class="btn btn-success btn-lg">
+          <input type="submit" name="submit" value="Upload" class="btn btn-dark btn-lg">
           </div>
         </div>
 
